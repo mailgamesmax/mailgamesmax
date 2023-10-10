@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mailgamesmax
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Max
+- 👀 I’m interested in different ways and directions of programming
+- 🌱 I’m currently learning C# and to be honestly - i really like it!
+- 💞️ I’m looking to collaborate on any new project, if you are ready to spend a little extra time to help me develop as a programmer
+- 📫 How to reach me - just write a msg to mailgamesmax on gmail... See you mate!
 
 <!---
 mailgamesmax/mailgamesmax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
